@@ -1,0 +1,4 @@
+A possible blog post to describe this algorithm from my perspective, also I can add in the Carl Sagan video and all of the material I already have.
+
+http://rosettacode.org/wiki/Sieve_of_Eratosthenes#Ruby
+

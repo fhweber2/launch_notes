@@ -1,0 +1,23 @@
+###rails -foo
+
+layout/ (is where html lives)
+
+	rails server
+
+		look for port binding (in Dan's example it was port3000) ->  now go to the browser & type in localhost:3000
+
+###assets/ images /javascript /stylesheets  
+
++models/
+	user.rb
+	
++controllers/
+	scaffolding
+	
++config/
+	initializers (~/work/foo ->railsroot)
+
+
+
+
+

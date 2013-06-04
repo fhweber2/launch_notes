@@ -1,0 +1,78 @@
+Blocks & Iterators
+
+  Convention: 
+  
+    {  } for one line blocks 
+    
+    and the 
+    
+    do 
+    
+      end 
+      
+      -for multiple lines of code to evaluate 
+      
+    In CLI programs 
+    
+    Connect 4 game (coming up this week - research now!)
+    
+    **gets is an infinite loop
+        
+            while 1 do
+                
+                puts 5 
+                
+            end  #badness here
+            
+        try to use the "break" loop sparingly 
+        
+       NewlyPair conditional logic, variables, loops, iterators
+        
+    
+        [1,2,3,].each { |num| puts "hello number #{num}" }
+            
+   Hash: or an associated array
+   
+        2 ways to 
+   
+    associated array == hash 
+    
+    arrays as keys
+    
+    use the underscore _  (hash =_ ) to 
+    
+    new syntax  the symbol for hashes e.g. { : }
+    
+Trace
+
+    Have a notebook to walk through this when tracing
+    
+    You must think like the prgm
+    
+                        hash
+                        
+                        {
+                        
+                        }
+    
+                        name
+        
+        
+                        xxxx (this will change) 
+                        
+                        
+                        Score
+                        
+                        
+                        xxxx (this will change)       
+                        
+            For Debuggin'
+            
+            Debuggin tools (ruby debugger and pride)
+                        
+                    
+      Q = "  "
+      
+        Questions = {  }
+            while Q != Exit 
+            

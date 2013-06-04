@@ -1,0 +1,29 @@
+Intro to GIt 
+
+SCM - source control manager (SVN was a precursor)
+
+Atomic Operations (research this out)
+
+	Make any changes throughout the entire source ecosystem?
+	
+	File Locking (change parameters - locks files down when a user is editing - not very collaborative)
+	
+	Checkouts 
+	
+	Merge (merging two repos together) \
+	
+	Clone (grab a link) in GitHub
+		launch terminal 
+		
+	ls -a flag to find hidden files
+	
+.gitignore tells what files not to commit
+
+Git where does it live? FInd out more. 
+
+git add . -- or the Directory that is being committed.
+
+git init (watch these files)
+
+
+CTRL C to escape from editor hell 

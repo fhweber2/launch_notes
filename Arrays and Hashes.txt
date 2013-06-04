@@ -1,0 +1,61 @@
+Array = a factory
+    - a set 
+    - rails has sets of 
+    - order is significantly more important that hashes
+    - Zero-based index (we start at "0")
+    
+    **Read Ruby docs sting, array, hash (read-up)
+    
+*Law of Demeter (try to avoid chaining to help make your program more expressive)
+
+Arrays are Reference Classes
+
+    .dup method copies one deep
+
+
+Hashes 
+    -key 
+    
+    
+    
+     h[ "something"]
+    
+        h.each {|key, value| puts "#{key} got #{value.join}"}
+
+key & value is passed as arguments to the code block
+
+Order matters in hashes and arrays - (order is preserved)
+
+        h.size
+
+        h.keys
+
+        h[h.keys[1]] to get the values of the key.  
+
+        h["Dan Pickett"] = [95, 95]  reassigns the values
+            k                   v
+
+NoSQL 
+
+    guid is the key 
+    
+    
+Merge method 
+
+    h.merge({"Jason Zopf" => [92, 100]}) merge is an instance method of a hash
+
+    h.respond_to?(:push) 
+
+    false 
+    
+    h.keys [ ]
+ 
+    h.values [ ]
+ 
+    h.merge! affecting change on the instance that calls it  ( ! )   = " a bang"
+ 
+    x.select { |x| x.odd?&&x >100}
+
+
+
+

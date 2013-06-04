@@ -1,0 +1,57 @@
+Link:  http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
+
+Pseudocode is a kind of structured english for describing algorithms. It allows the designer to focus on the logic of the algorithm without being distracted by details of language syntax.  
+
+At the same time, the pseudocode needs to be complete.  It describe the entire logic of the algorithm so that implementation becomes a rote mechanical task of translating line by line into source code.
+In general the vocabulary used in the pseudocode should be the vocabulary of the problem domain, not of the implementation domain.  The pseudocode is a narrative for someone who knows the requirements (problem domain) and is trying to learn how the solution is organized.
+
+
+Common Action Keywords:
+
+Several keywords are often used to indicate common input, output, and processing operations:
+
+	-Input: READ, OBTAIN, GET 
+
+	-Output: PRINT, DISPLAY, SHOW 
+
+	-Compute: COMPUTE, CALCULATE, DETERMINE 
+
+	-Initialize: SET, INIT 
+
+	-Add one: INCREMENT, BUMP
+
+It has been proven that three basic constructs for flow of control are sufficient to implement any "proper" algorithm.
+
+	SEQUENCE is a linear progression where one task is performed sequentially after another. 
+	WHILE is a loop (repetition) with a simple conditional test at its beginning. 
+	IF-THEN-ELSE is a decision (selection) in which a choice is made between two alternative courses of action.
+ Although these constructs are sufficient, it is often useful to include three more constructs:   
+	REPEAT-UNTIL is a loop with a simple conditional test at the bottom. 
+	CASE is a multiway branch (decision) based on the value of an expression. CASE is a generalization of IF-THEN-ELSE. 
+	FOR is a "counting" loop.
+	
+NESTED CONSTRUCTS
+The constructs can be embedded within each other, and this is made clear by use of indenting. Nested constructs should be clearly indented from their surrounding constructs.
+
+
+INVOKING SUBPROCEDURES
+Use the CALL keyword
+
+	For Example: 
+	
+	CALL AvgAge with StudentAges 
+	CALL Swap with CurrentItem and TargetItem 
+	CALL Account.debit with CheckAmount 
+	CALL getBalance RETURNING aBalance 
+	CALL SquareRoot with orbitHeight RETURNING nominalOrbit
+	
+EXCEPTION HANDLING
+
+    BEGIN 
+        statements 
+    EXCEPTION 
+        WHEN exception type 
+            statements to handle exception
+        WHEN another exception type 
+            statements to handle exception
+    END

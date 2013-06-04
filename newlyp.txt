@@ -1,0 +1,14 @@
+##Questions & Answer Array
+      
+    array  q = [q1, q2, q3, q4]
+
+    array  a = [a1, a2, a3, a4]
+
+        counter = 0
+        q_count [0]
+
+        p_a_a [0]
+
+        q_arr [0]
+
+

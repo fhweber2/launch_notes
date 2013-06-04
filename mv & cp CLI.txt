@@ -1,0 +1,21 @@
+mv - move
+cp - copy
+
+how_to_go_home.
+
+folder/
+
+less 
+
+-r (recursive)
+
+rm (remove) can't undue!
+
+$ rm -r
+
+mkdir (make directory) + path 
+
+
+
+
+

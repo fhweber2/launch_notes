@@ -1,0 +1,86 @@
+#Building Energy Usage - Role Playing Game  
+    
+###The Target Audience: 
+
+The World! Anyone that wants to play a Sim-like Game focused on illustrating the efficacy of using energy efficient materials, renewables, industry standards, energy saving techniques (LEED) and other energy saving recommendations, etc.   
+
+_______
+
+###The Game 
+
+Incentivize Players to use renewable materials, energy saving techniques, upgrading to more energy efficient systems (HVAC, radiant heat, etc) by depositing money in their corporate accounts, raising their "Green Score", and ultimately effecting their capital and operating expenses (CAPEX & OPEX). Players also receive points for their building (property's) "green-ness" and cost-saving measures over the period of a Fiscal Year or per Quarter (1Q, 2Q, 3Q, 4Q).
+
+###Pits players against one another or as a single player to illustrate how employing various energy saving techniques, materials, systems (HVAC, radiant heat, hardware, etc) affect energy usage of their "picked" buildings/properties..  The overall goal of the game is to assist/educate businesses and consumers to lower their energy consumption.
+_________________
+               
+##User Stories
+
+As a 'type of user', I want 'some goal' so that 'some reason',: A user lands on the main page.  The user is given a brief overview of the game (in a short paragraph with some graphics).  A user can logon using a social media profile (i.e Twitter, Facebook) or sign-up as a Guest, or register with a unique User ID.  
+
+As a 'type of user', I want 'some goal' so that 'some reason': The user selects the type of game (1-player) or (2-player).  Then selects a Building or Property type with pre-loaded variables (such as older construction, non-LEEDs compliant, or a Greener more efficient building, etc.). 
+
+As a 'type of user', I want 'some goal' so that 'some reason': The user is then greeted with a dashboard that displays the buildings variables and current energy usage, weather conditions, and score. 
+
+As a 'type of user', I want 'some goal' so that 'some reason': The user then can choose to view, change, or modify his/her property's energy usage.           
+
+As a 'type of user', I want 'some goal' so that 'some reason' :The user can then identifies areas to be approved upon, e.g. types of light bulbs, or adding a renewable resource such as solar to the existing structure, insulation, and so forth.
+
+As a 'type of user', I want 'some goal' so that 'some reason' : A user has the ability to view his/her properties data (energy consumption, weather, other comparable properties, etc) via the dashboard page.
+
+As a 'type of user', I want 'some goal' so that 'some reason': A user can evaluate Return on Investment from capital expenditures (improvements). 
+
+As a 'type of user', I want 'some goal' so that 'some reason': The user receive's information regarding improvements 
+
+As a 'type of user', I want 'some goal' so that 'some reason': The user can track other properties by (type, energy consumption, expenditures) and players if they choose to.
+
+As a 'type of user', I want 'some goal' so that 'some reason': A user can share their scores via Web 2.0 platforms (fb, Twitter, etc.)
+
+As a 'type of user', I want 'some goal' so that 'some reason': A user can stop playing at any time, or can play through either the Fiscal Quarter Game or Fiscal Year Game.
+
+As a 'type of user', I want 'some goal' so that 'some reason': At the end of the game, the user receives their score (based on their improvements and cost savings) and are provided a print out  (report).
+ 
+______________
+
+##Wireframing - 
+
+####A focus on the following pages:
+
+Landing page (Wire#1)
+
+Registration page (Wire#2)
+
+Pick the Type of Game Page (Wire#3)
+
+Players:
+
+-1 Player 
+-2 Player
+
+Length:
+-Fiscal Year
+-1 Quarter (90 days) 
+
+Selection of Property/Facilities Page (Wire#3)
+
+-pick improvements
+
+-pick materials
+
+-budget is assigned 
+
+Start the Game Page
+
+Incrementally make changes to the property; implement energy saving materials, techniques; stay on budget; monitor usage: $$ savings; overages in power consumption.
+
+Tracking Page (Usage, other players, energy data) (Wire#4/5)
+
+To Do (later iterations): 
+
+####Add in a Social Aspect - Share your score via fB, twitter, etc.
+
+
+
+
+
+
+

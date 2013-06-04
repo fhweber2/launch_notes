@@ -1,0 +1,39 @@
+Boolean 
+
+    a  ||  b
+
+    a  &&  b
+
+    ! =
+
+    xor | ^  (x order)
+
+    ==
+
+    >
+
+    <
+
+    >=
+
+    <=
+
+As a programmer you want to verbally say what your program is doing - be expressive
+
+    1.9.3p392 :030 > 3 == 2
+    => false
+    1.9.3p392 :031 > 3 == 3
+    => true
+    1.9.3p392 :032 > 3 != 3
+     => false
+
+Class =
+    Factory
+    
+Instance 
+    Version 
+
+true and false (they're singletons and instances of themselves!?!)
+
+####-When you pass logic there is a chance of a bug if you do not conduct test (must evaluate all conditionals) e.g., else statements...an opportunity for a unlikely use case or error to occur (must anticipate the other branch of this)
+

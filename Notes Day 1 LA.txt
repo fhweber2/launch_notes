@@ -1,0 +1,28 @@
+ Notes (Highlights):
+
+1. Convention over Configuration Exercise  - our example was how an automobile is similar in design of the driver's control / plus the military uniform analogy that I didn't come up with until the actual briefing...total R mode there.  
+
+	Uniformity example - BDUs Badges Patches etc.
+
+2. Pair Programming - sniper observer example 
+
+Possible Blog Posts?
+
+
+3. TDD Red Green Refactor Drives Design
+
+	Write tests to fail before writing production code 
+	test than refactor the code 
+	Use Ruby Libraries (specific) for testing purposes - deep dive this 
+	
+4. MVC: 
+
+	Model 				View
+		    \			  /
+		    	Controller		    
+		    	
+5. Outside-In Development 
+	User stories & Acceptance Criteria makes it testable
+
+6.  Problem solving:  Spike -> Integration -> TDD
+

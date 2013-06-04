@@ -1,0 +1,13 @@
+unicode icons?  find links - values.
+
+:before
+:after
+:first-letter (drop cap)
+	font-size:
+	padding:
+	margin:
+	background-color:
+	float: left or right;
+	
+content: attr(href);  attribute - placed after the link ("title")
+

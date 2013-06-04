@@ -1,0 +1,6 @@
+Create a Gist from Subl 
+
+	In Sublime
+	
+	cmd+shift+p
+	

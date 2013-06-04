@@ -1,0 +1,70 @@
+Interactive Ruby: open by passing "irb"
+    
+    ?--16 places after ". " for floats (?) - find out more 
+    
+###class 
+
+###methods
+
+###objects
+
+
+        enter 3.class
+        =>Fixnum
+
+        enter 5.4 class 
+         =>Float
+
+        3.methods 
+        => list all of the methods for the class
+
+        3.respond_to? 
+
+###Object.methods shows all of the objects available.
+
+    IRB exercise - compare 3.methods to 3.5.methods (can u do this in the shell??)3.methods 
+
+    ***GOODNESS From Dan!  .methods - .methods (find the difference)
+
+    1.9.3p392 :012 > 3.methods - 3.5.methods
+     => [:~, :&, :|, :^, :      , :<<, :>>, :size, :odd?, :even?, :succ, :upto, :downto, :times, :next, :pred, :chr, :ord, :gcd, :lcm, :gcdlcm]
+    
+    1.9.3p392 :016 > Fixnum.methods - 3.methods
+      =>     [:allocate, :superclass, :included_modules, :include?, :name, :ancestors, :instance_methods, :public_instance_methods, :protected_instance_methods, :private_instance_methods, :constants, :const_get, :const_set, :const_defined?, :const_missing, :class_variables, :remove_class_variable, :class_variable_get, :class_variable_set, :class_variable_defined?, :public_constant, :private_constant, :module_exec, :class_exec, :module_eval, :class_eval, :method_defined?, :public_method_defined?, :private_method_defined?, :protected_method_defined?, :public_class_method, :private_class_method, :autoload, :autoload?, :instance_method, :public_instance_method]
+ 
+##Remember!
+
+    :  symbol "takes less memory and is immutable"
+  
+    : to_s
+
+    try this - 9.to_s + 4 (no good)
+
+    the "4" is the problem here - we're trying to concatenate here not add and we can't do this 
+
+    9.to_s + 4.to_s 
+
+    => 94
+
+    (9.to_s + 4.to_s).to_i +  6
+
+    => 100
+
+
+    "5 + 9 is  + #{5 + 9} in ruby"  
+
+    => "5+9 is 14 in ruby"
+
+##casting 
+
+
+Classes v Instances 
+
+####Like a Bento Box
+    
+- Incorporate code into a session use "ruby"
+
+    require "./filename"
+    
+but stick to invoking ruby filename,rb
+

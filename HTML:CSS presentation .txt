@@ -1,0 +1,23 @@
+css selectors key - research more
+
+-things not to do:  do not put all of the code on one line
+    -no css in HTML
+
+best practices 
+    .#navigation {...}  //Great!
+    
+    .navigation {...} //Good
+    
+    a{ ... }
+    
+    ul li { ... }
+    
+    
+browser reads from right to left
+-write selectors to optimize R to L interpretation
+
+
+    
+
+     
+    

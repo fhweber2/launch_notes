@@ -1,0 +1,3 @@
+Pair Programming
+
+So here's another thing that was running through my mind yesterday as a While one of the team's was presenting on Pair Programming, instantly I thought of another pair that works in tandem - the Sniper/Observer Team.  Yeah, it's way off track here, but there are so many similarities it's uncanny, even if one team deals with software and the other deals with an entirely different set of variables....  In the SO Team, the observer is the one that calls the wind and provides the shooter with many conditions that the shooter cannot 'see' from their vantage point.  Same in developing, the navigator 

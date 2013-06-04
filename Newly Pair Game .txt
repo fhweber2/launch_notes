@@ -1,0 +1,84 @@
+edge cases.... 
+
+input, output, storage, application
+
+1. Print Instructions
+
+2. Asks Questions
+
+	If answer is incorrect repeat the question, again, again (research this)
+
+		if correct a point is given (or tallied) 
+		
+		else incorrect then user is informed of an incorrect answer
+
+3. The Q&A Repeats 
+
+4. Last answer is given the points are tallied and printed or "You did not earn any points" is given
+
+	Questions, point tally, and final statement t should read "You did not earn any points" are all outputs
+
+-Intputs are answers
+
+-Evaluation (point tally)
+
+-Storage:  Questions, Answers, Tallies are stored -where and how?
+
+-Primary loop of the questions
+
+-'You want to store the questions and answers in an appropriate data structure so that it is easy to correlate questions and answers, and to ask them consecutively without repeating a lot of code.'
+
+Random question generator for the 9 questions - repeats 3 times, 3 blocks, etc (try to find an method for this generation)
+
+
+Possible Solution:
+
+puts 
+puts 
+puts
+puts 
+puts 
+puts 
+puts 
+puts
+# Ask these questions, store answers.  No WHILE LOOPS! 
+while true
+  puts "Question1"
+  answer = gets.chomp.downcase
+  if (answer is correct - tally a point || answer =no')
+    break
+  else
+    puts 'Please answer "yes" or "no".'
+  end
+end
+
+while true
+  puts ''Question2'
+  answer = gets.chomp.
+  if (answer == 'yes' || answer == 'no')
+    break
+  else
+    puts 'Please answer "yes" or "no".'
+  end
+end
+
+#  We pay attention to *this* answer, though.
+while true
+  puts 'Q3'
+  answer = gets.chomp
+  if (answer == 'yes' || answer == 'no')
+    if answer == ''correct'
+      correct = true
+    else
+     incorrect = false
+    end
+    break
+  else
+    puts 'Please answer "yes" or "no".'
+  end
+end
+
+
+Questions Array 
+randomization
+

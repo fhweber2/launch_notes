@@ -1,0 +1,29 @@
+As a Rails Developer I want to write the User Stories so that__________?
+
+-Beginning with the Client.
+
+"No Tech Speak" 
+	
+-Use of Pseudocode
+	
+-Always a need to interpret Client Needs to ideas, then to software 
+	
+-A good user story is when the user (client) writes the stories. 
+	
+-User Stories are based on users (think about Who is using it)
+	
+-What is text that everyone will understand
+	
+-Why for the purposes to do something (that is worthwhile)
+	
+	
+Write it down on 3x5 or index cards 
+	
+Should be Discrete piece of work 
+ 
+	
+
+	
+	  
+	
+	

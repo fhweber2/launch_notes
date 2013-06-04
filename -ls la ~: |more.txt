@@ -1,0 +1,1 @@
+    ls for hidden files (.bash_profile) = -rw-r--r--

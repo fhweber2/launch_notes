@@ -1,0 +1,16 @@
+User Stories to Pseudocode - The Dirty Dozen!
+
+Yet another things struck me this week was the efficacy in seeing user stories, use cases and pseudocode as a literal sand table and rock drills.  
+
+A sand what? Rock drills?  
+
+A sand table (enter obligatory picture of Army dudes standing around looking and pointing at the sand table).  
+
+Militaries around the world use sand tables and rock drills to communicate the plans of the mission, coordinating instructions and as a means of rehearsals. It's very similar to playing with those little army men in a sandbox, (Insert pic of an army guy), except  this was the basic 
+means of communicating instructions. (Insert dudes around a sand table here).  
+
+The main portion of planning was generally centered around what we call Actions on the Objective or just "Actions On".  A great scene from the "The Dirty Do"Those who have seen the movie The Dirty Dozen will remember this scene as each of the team members goes through the numbers of the actual actions on the objective (insert youtube or make some sort of meme) "by the numbers"
+ 
+So, how does this relate to user stories, use cases and dropping in some pseudocode!  Well, from this noob's perspective, I see the similarities in the initial receiving of the mission from the client, hopefully your not conducting this meeting from prison, but if so, well roll with it, next the mission (or use case) was to was handed to the team, where they wire-framed the  or the use case to the actual planning of how a team sets out to solve a problem and finally execute it.  Lee Marvin, Charlie Branson and the boys had a unique mission, which called for an audacious plan.  In order to fulfill this mission they had to rehearse, test their plan 
+
+ 

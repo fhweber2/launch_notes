@@ -1,0 +1,9 @@
+pause a 'job' in nano.  simply hold down ctrl + z returns to HOME$
+
+"fg" to return to nano - then look at the number in the brackets [ x ]+ "stopped" to see the disposition of the file
+
+commands:  jobs 
+
+fg (then job number)
+
+ctrl + c : stop a process

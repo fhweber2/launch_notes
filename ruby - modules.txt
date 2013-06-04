@@ -1,0 +1,15 @@
+keyword = module
+
+	module 'xxxx'
+
+	end
+
+use modules for namespacing
+
+ create 'constants' all Uppercase, i.e. MASCOT ("mike the frog")
+ 
+ create 'classes'  or namespacing 
+ 
+ use :: to access modules & classes
+
+

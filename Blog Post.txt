@@ -1,0 +1,91 @@
+
+
+In the past month at Launch Academy, the phrase of "convention over configuration" is is a good thing, right....  For a noob, it sure is.  Having a base to work from provides new devs like me to have some order in the expressiveness that is the Ruby language.  Using camelCase for classes and modules , snake_case for methods, the_magic_that_is_the_underscore, and who could forget the SCREAMING_SNAKE_CASE to charm those other constants.  
+
+How could you not love those conventions? who wouldn't want to learn Ruby.   The beauty is that this expressiveness and use of such conventions are central to Ruby's secret sauce.  Those underscores, especially in methods like:
+
+    attr_accessor 
+    
+A quick search for "camelCase" will yield some interesting results. "  seen some folks refer to Some people equivocate the use of "camelCase",where the first letter of a compound word is not capitalized and used in classes and modules as being medieval. 
+
+ It's based on best-practices (Check). 
+ 
+ The concept of "DRY" (Don't Repeat Yourself)
+ 
+ For someone new to programming and code itself, "convention" offers a fallback a default, a happy place that we . Check
+  
+ Let's look at Naming Conventions
+ 
+Classes/Modules
+class and module names should be nouns; in mixed case with the first letter of each internal word capitalized.
+
+    ex:
+        class Raster,  class Raster::ImageSprite
+
+
+
+##Methods
+
+Methods should be verbs. All lower case ASCII letters with words separated by underscores ('_')
+    
+    example:  run(), run_fast(), obj.background_color()
+    
+    
+
+##Variables
+
+variable names should be all lower case ASCII letters with words separated by underscore ('_')
+ex: 
+    
+    i = 1 some_char = SomeChar.new() table_width = 0.0
+    
+    
+    
+
+##Constants
+
+constants should be all upper case with words separated by underscores ('_').   
+	•	It sets a default pattern, so if someone is new to the code (but knows the convention), he should find and understand things more easily.
+	•	You may program in a higher level of abstraction, not needing to do some repetitive tasks that configuration requires
+	•	As the name states, convention is just a plus, trying to help. Whenever you don't like the convention, you can set up the configuration.
+
+
+I'm a Veteran and Launch Academy is not my first Bootcamp.  One thing that has struck me over the past month, wait, I can't believe I just typed that.  It's been one freakin' month already.  I've been so engaged the time has literally flown bye. Yesterday was a prolific example of just how focused I've been, when I typed "rails g migrate" yesterday and my entire dev environment shat on itself, it took at awhile to get my I didn't look One of the things that comes to mind is
+
+Looking for metaphors, conventions in Ruby are similar to the Army and its obsession over the uniform.  Look, the military doesn't fuck around when it comes to the proper wear of the uniform.  While Ruby and other programming languages have sites like (ruby-style-guide @ https://github.com/bbatsov/ruby-style-guide/blob/master/README.md ) and others, there is no definitive source, which I'd expect given the languages expressiveness and  I mean the Army has an entire regulation about the who, what, why, when, where, and how to wear the various uniforms, properly display, affix unit patched, the proper cant of a hat  and all of the badges, patches, and other specific accoutraments.  This reg is known as AR 670-1 and there are some, who have a hard-on for this reg as the end all be all of the Army.  I never really got that, I mean if you can fight and never quit at anything, I don't give a fuck what you look like.  ou can stand by my side anytime. But I digress, this reg is like an encyclopedia, or a DIY guide with exact measurements of the exact placement of a name tag or badge, for example, "the badge will be centered and an 1/8 of inch above the outer seam of the left breast pocket," no shit.   What it does is provide the order
+
+Now be forewarned, if you get this shit wrong and happen to leave the house or barracks in a rush with a dicked-up uniform then run into your Squad Leader, Commander or worse a Drill Sergeant, someone is getting an ass chewing.  
+
+It's all from a good place though, as uniformity is drilled consistently because it focuses soldiers on attention to detail.  Just as a Ruby developer should always indent 2 spaces   as it forms the basis of the ensuring that everyone looks the same.  After awhile when someone is "out of uniform," i.e. not wearing their headgear or a patch, a badge, etc are out of place it becomes quit obvious to everyone in the squad, detachment, platoon, and so on.  
+
+Although, you will irk another dev by not using proper tabbing.  It is easy to see when your tabs  or excess white space in your markup and your bound to irk fellow devs by your lack of tab discipline.  While this bootcamp does not inflict punishment for not following these types of conventions
+
+So, how the does relate to convention over configuration in Ruby or any software development language.  Well, from this novice's perspective the convention is a norm that should be adhered to 
+
+In Rails, the concept of "DRY" (Don't Repeat Yourself) is closely related to "Convention over Configuration." 
+
+Rails and RSpec uses convention over configuration, and it knows that this file should be required as part of running the test suite.
+
+Naming Conventions
+Classes/Modules
+class and module names should be nouns; in mixed case with the first letter of each internal word capitalized.
+
+    ex:
+        class Raster,  class Raster::ImageSprite
+
+##Methods
+
+Methods should be verbs. All lower case ASCII letters with words separated by underscores ('_')
+    
+    example:        run(), run_fast(), obj.background_color()
+##Variables
+
+variable names should be all lower case ASCII letters with words separated by underscore ('_')
+ex: 
+    
+    i = 1 some_char = SomeChar.new() table_width = 0.0
+
+##Constants
+constants should be all upper case with words separated by underscores ('_'). 
+
+Rails Convention assists us in understanding what is going on in the HTTP 

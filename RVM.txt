@@ -1,0 +1,17 @@
+#RVM - 
+    -default 1.9.3.p392
+    
+Gemset
+
+    rvm create gemset 
+
+    gem list 
+
+cheat sheet - rvm (on apollo)
+
+    .ruby-gemset
+
+    :q to exit
+
+ 
+    

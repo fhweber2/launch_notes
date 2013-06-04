@@ -1,0 +1,10 @@
+Commands
+	•	kill - Send a signal to a process
+Signals
+	•	KILL or 9 - Force a process to exit
+	•	TERM (default) - Request a process terminate normally
+	•	STOP - Stop or pause a process
+
+KILLSIG or KILL 
+
+-9 like Force Quit -use w/care

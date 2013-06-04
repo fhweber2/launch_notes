@@ -1,0 +1,33 @@
+In Rails, the concept of "DRY" (Don't Repeat Yourself) is closely related to "Convention over Configuration." 
+
+##Naming Conventions
+Classes/Modules
+class and module names should be nouns; in mixed case with the first letter of each internal word capitalized.
+
+    ex:
+        class Raster,  class Raster::ImageSprite
+
+##Methods
+
+Methods should be verbs. All lower case ASCII letters with words separated by underscores ('_')
+    
+    example:        run(), run_fast(), obj.background_color()
+##Variables
+
+variable names should be all lower case ASCII letters with words separated by underscore ('_')
+ex: 
+    
+    i = 1 some_char = SomeChar.new() table_width = 0.0
+
+##Constants
+constants should be all upper case with words separated by underscores ('_'). 
+
+    ex:
+        MIN_LENGTH = 1
+        DEFAULT_HOST = "foo.example.com"
+
+#Omission
+Speaking of 'Connection Pool' as a variable, you should decide to prefer name by scope such as the following…
+	
+    'conpool' for local scope (such as local variable)
+    @connection_pool for class scope (such as instance variable)

@@ -1,0 +1,21 @@
+Reflections on the weekend:
+
+Refactored the newlyPair game
+    -learned more about classes (encapsulation, polymorphism, reflection and other object's methods)
+    -forked a few repos on Github (RGeo, & Brett's Ruby vocal) still need to clone
+    -prepped my web server for my project's - breakable toy framework (mapbox)
+    -started conceptualizing my use cases for the the "bt" 
+    -tested various snippets of code in the IRB
+    -differences in public, private classes (global v local) 
+
+What I hope to learn soon- 
+    -instantiation 
+    -how to merge 2 classes or Class Variables & Object Variables
+    -need to deep dive into MVC as it pertains to my "bt"
+    
+    
+    
+    
+
+    
+    

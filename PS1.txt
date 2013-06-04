@@ -1,0 +1,6 @@
+Sets the prompt
+
+PS1= sets the prompt
+
+$PS1 (expands the prompt)
+

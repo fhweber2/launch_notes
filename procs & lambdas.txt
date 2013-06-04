@@ -1,0 +1,5 @@
+###Bound to context to where they're called
+
+####passed procs using pipes
+
+--use parentheses 

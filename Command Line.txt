@@ -1,0 +1,77 @@
+Path:  command:  pwd  (present working directory) or echo $PATH  (prepending of the path help )  all paths end with /bin  (need to check my path)
+
+CLI will take arguments
+
+	man ls (man is the program and ls is the argument) an offline way to get documentation
+
+edit your '.dot' files  (get there by ls -a)
+
+	other devs share the .'dot' files -  many placed on git
+
+Connecting to AWS EC2, Rackspace, cloud-based resources  (the protocols - TCP/IP)
+
+	Alpha Focus - HTTP on Port: 80 ; SSH on Port: 22
+
+	Communicate with AWS EC2 via ssh port 22
+
+	Heroku built on top of the EC2
+
+		obfuscate the process of this behemoth that is EC2. 
+	
+:q to quit the man page 
+
+a single dash is followed by a single character, e.g. -h (help)
+
+a double dash is followed by the word, e.g (--help)
+
+~ (represents your home directory)
+
+relative & absolute paths:
+
+	absolute paths always start with a / 
+
+	relative paths mkdir ../code  (one directory below or down from the present working directory)		
+		.  Current Director 
+		.. Directory Down (In)
+	
+
+UNIX is case sensitive!
+
+tab completion (need to research more) 
+
+**Rails Convention using the _ for naming convention e.g. code_2 
+
+rails new 
+
+ls into the file: 
+(rails root - or the base of the application)  
+
+delete the public/index.html use rm  (rm public/index.html)
+
+mkdir (make)
+rmdir (removes directory)
+
+rm -rf (recursive flag) be careful
+
+touch foo.rb (relative path)  file is created no content
+
+rack (ruby file that runs web servers  - will look at the config file)
+
+mv command (it takes 2 arguments the source file and directory)
+
+	moves one file to another
+		
+		mv READE.rdoc README.md
+
+cp commands (copy)
+
+
+
+ls -ltr 
+
+
+
+
+
+
+

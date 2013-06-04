@@ -1,0 +1,26 @@
+Thoughtbot Offices
+
+Git PreCommit Presentation 
+(bob gilmore) github account
+
+Whats a Git hook?
+
+client side 
+precommit
+
+server side
+
+create a _repo/.git/hooks
+
+#! hashbang 2 invoke ruby @ shell script
+
+exit with a none 0 integer to fail
+
+override git commit -m "my message" --no verify
+
+see git config doc, then look @ his script 2 c use
+ Gist Deck 4 presentations
+
+adding symlinks?
+
+clone ./setup.sh 

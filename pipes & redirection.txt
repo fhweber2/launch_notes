@@ -1,0 +1,18 @@
+Commands
+
+somecommand < inputfile run somecommand with input from inputfile, instead of the keyboard
+
+somecommand > outputfile run somecommand with output to outputfile instead of the terminal screen.
+
+
+grep output : file direction with one (greater than sign) ">" overwrites the file
+
+grep output with 2 (greater than signs) ">>" appends the files.
+
+/dev/null - garbage collector?  
+
+**command1 | command2 pipe the output of command1 to the input of command 2
+
+grep as an amazing tool!  ps aux  | grep bash
+
+can be used as building blocks to create cool tools. using one process output for another processes input.  input/output redirection

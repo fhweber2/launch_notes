@@ -1,0 +1,44 @@
+Variable Scopes 
+    ""live and die in the context of your program""
+    
+    > puts i
+    get an error 
+        need to initialize 
+   
+    local variable in local scope
+
+Ruby Methods:
+
+    def (keyword) then the "name"
+    
+        puts something
+    
+    end
+    
+                    def greet
+                        puts "hello"
+                    end
+                    
+            
+            
+            def greet (name = nil)
+                if name.nil?
+                    puts "hello"
+                    else
+                        puts "hello #{name}!"
+                    end
+                end
+        
+        Encapsulation  
+        
+        Return Value (just like break - return will prematurely terminate the method)
+        
+        Ruby returns the last line of the method so, 
+        
+            def greet (name)
+                "Hello #{name}"
+            end
+puts greet ("Dan")
+
+Hello Dan                
+    

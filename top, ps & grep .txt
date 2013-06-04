@@ -1,0 +1,23 @@
+processes 
+
+command = top
+
+= ps  (ps aux) - view a list of all options  or ps aux | grep 
+
+= grep:  take input and search for patterns (global regex print)
+
+grep -n (line numbers)
+
+**grep is case sensitive 
+
+grep -i (ignores case)
+
+grep -v (verision)
+
+look at man grep & man find
+
+exit = q
+
+type  clear to empty screen
+
+

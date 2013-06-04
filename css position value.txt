@@ -1,0 +1,14 @@
+position: static
+position: relative
+position: absolute 
+
+**in box modeling
+
+fixed positioning 
+
+<div class="fixed"> markup
+.fixed (css)
+positon: fixed;
+
+z-index - sets the stack order of elements (z-axis)
+applied to absolute & relative position

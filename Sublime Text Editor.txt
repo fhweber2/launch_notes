@@ -1,0 +1,43 @@
+ CMD+Shift+P Command Palette
+ 
+ CMD+T 'find'
+
+**Packages are like Ruby Gems (add value to Subl)
+
+http://wbond.net/sublime_packages/package_control/installation
+
+Packages will be on Apollo...
+
+Packages:  
+
+	Git Gutter (helps for versioning control)
+	Sidebar Git (lets you Git commands from the sidebar)
+	GitHubinator (lets you select a piece of code in the editor and locate on GitHub)
+	Ruby Test (hold down 'cmd & .' will bring you to that piece of code?)
+	RubyPackage 1.9 for Hash Control or Changes??	
+
+Customize Color Schemes for Syntax - a convention!
+
+Sublime Linter (helps with Syntax)
+
+**Ruby community 2 spaces for indentation**
+
+ 
+Find cmd+f 'find in files' 
+	can sift by folder 
+	find&replace too
+
+Uninstall a Package -> package control:remove package 
+
+Snippet 
+	<snippet>
+		shortcuts!  this is an awesome way of saving time
+		set a trigger
+		
+Live in the Command Palette 
+
+
+	
+
+
+
