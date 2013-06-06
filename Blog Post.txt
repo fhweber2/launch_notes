@@ -1,6 +1,6 @@
 
 
-In the past month at Launch Academy, the phrase of "convention over configuration" is is a good thing, right....  For a noob, it sure is.  Having a base to work from provides new devs like me to have some order in the expressiveness that is the Ruby language.  Using camelCase for classes and modules , snake_case for methods, the_magic_that_is_the_underscore, and who could forget the SCREAMING_SNAKE_CASE to charm those other constants.  
+In the past month at Launch Academy, the phrase of "convention over configuration" is invoked numerous times a day.  is a good thing, right....  For a noob, it sure is.  Having a base to work from provides new devs like me to have some order in the expressiveness that is the Ruby language.  Using camelCase for classes and modules , snake_case for methods, the_magic_that_is_the_underscore, and who could forget the SCREAMING_SNAKE_CASE to charm those other constants.  
 
 How could you not love those conventions? who wouldn't want to learn Ruby.   The beauty is that this expressiveness and use of such conventions are central to Ruby's secret sauce.  Those underscores, especially in methods like:
 
