@@ -48,4 +48,7 @@
   13. rake db:migrate ; rake db:rollback ; rake db:migrate
 
   14. git commit
+  
+  rails g controller home index
+  
 
