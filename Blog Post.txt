@@ -1,12 +1,32 @@
+###Convention over Configuration 
 
+Holy shit, we're in week 5!  
 
-In the past month at Launch Academy, the phrase of "convention over configuration" is invoked numerous times a day.  is a good thing, right....  For a noob, it sure is.  Having a base to work from provides new devs like me to have some order in the expressiveness that is the Ruby language.  Using camelCase for classes and modules , snake_case for methods, the_magic_that_is_the_underscore, and who could forget the SCREAMING_SNAKE_CASE to charm those other constants.  
+One thing of the things that has really stuck out to me is the similarities between the Launch Academy experience and my first experience in another bootcamp that I went through as a Private (E-1), the most junior person or rank in the U.S. Army.   
 
-How could you not love those conventions? who wouldn't want to learn Ruby.   The beauty is that this expressiveness and use of such conventions are central to Ruby's secret sauce.  Those underscores, especially in methods like:
+In the Army, the phrase that I have always remembered during the 8-weeks of Basic Training was, "Beat your Face" which in military parlance is drop and do some pushups.  Now, Launch Academy is nowhere near as extreme unless you consider drinking from the firehose that is a full-stack web dev bootcamp, but I'll let you draw your own inferences.  
+
+Looking for metaphors, conventions in Ruby are similar to the Army and its obsession over the uniform.  Look, the military doesn't fuck around when it comes to the proper wear of the uniform.  In fact, they have some serious documentation on this subject, which I'll allude.  
+
+Ruby does have the  (ruby-style-guide @ https://github.com/bbatsov/ruby-style-guide/blob/master/README.md ) and others, there is no definitive source, which I'd expect given the languages expressiveness and  I mean the Army has an entire regulation about the who, what, why, when, where, and how to wear the various uniforms, properly display, affix unit patched, the proper cant of a hat  and all of the badges, patches, and other specific accoutraments.  This reg is known as AR 670-1 and there are some, who have a hard-on for this reg as the end all be all of the Army.  I never really got that, I mean if you can fight and never quit at anything, I don't give a fuck what you look like.  ou can stand by my side anytime. But I digress, this reg is like an encyclopedia, or a DIY guide with exact measurements of the exact placement of a name tag or badge, for example, "the badge will be centered and an 1/8 of inch above the outer seam of the left breast pocket," no shit.   What it does is provide the order
+
+Now be forewarned, if you get this shit wrong and happen to leave the house or barracks in a rush with a dicked-up uniform then run into your Squad Leader, Commander or worse a Drill Sergeant, someone is getting an ass chewing.  
+
+It's all from a good place though, as uniformity is drilled consistently because it focuses soldiers on attention to detail.  Just as a Ruby developer should always indent 2 spaces   as it forms the basis of the ensuring that everyone looks the same.  After awhile when someone is "out of uniform," i.e. not wearing their headgear or a patch, a badge, etc are out of place it becomes quit obvious to everyone in the squad, detachment, platoon, and so on.  
+
+Although, you will irk another dev by not using proper tabbing.  It is easy to see when your tabs  or excess white space in your markup and your bound to irk fellow devs by your lack of tab discipline.  While this bootcamp does not inflict punishment for not following these types of conventions
+
+So, how the does relate to convention over configuration in Ruby or any software development language.  Well, from this novice's perspective the convention is a norm that should be adhered to 
+
+In Rails, the concept of "DRY" (Don't Repeat Yourself) is closely related to "Convention over Configuration." 
+
+In the past month at Launch Academy, the phrase "convention over configuration" is as common as  spoken at some point everyday.   Having a base to work from provides new devs like me to have some order in the expressiveness that is the Ruby language.  Using camelCase for classes and modules , snake_case for methods, the_magic_that_is_the_underscore, and who could forget the SCREAMING_SNAKE_CASE to charm those other constants.  
+
+How could you not love those conventions? who wouldn't want to learn Ruby!  The beauty of this expressiveness and use of such conventions are central to Ruby's secret sauce.  Those underscores, especially in methods like:
 
     attr_accessor 
     
-A quick search for "camelCase" will yield some interesting results. "  seen some folks refer to Some people equivocate the use of "camelCase",where the first letter of a compound word is not capitalized and used in classes and modules as being medieval. 
+A quick search for "camelCase" will yield some interesting results. There are some people who equivocate the use of "camelCase",where the first letter of a compound word is not capitalized and used in classes and modules as being medieval. 
 
  It's based on best-practices (Check). 
  
