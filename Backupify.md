@@ -23,5 +23,7 @@ Recommends not to use Resque rather use Sidekick
 
 Once you have these stacks they must be maintained.... 
 
+"If you can use SQL, use it..."  
 
+Redis can do it. 
 
