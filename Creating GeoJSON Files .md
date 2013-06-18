@@ -10,4 +10,4 @@ The GeoJSON spec can be found here to dive deeper:
 
 http://geojson.org/geojson-spec.html
 
-
+There are a ream of resources that one can access to learn about GIS that I won't delve into, but to start 
