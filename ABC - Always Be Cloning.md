@@ -1,10 +1,14 @@
+---
+published: false
+---
+
 ###ABC: Always Be Cloning
 
 Don’t forget, any time you use:
 
     rake db:migrate 
  
- to make a change to your development database, you’ll need to mirror that change in your test database with 
+to make a change to your development database, you’ll need to mirror that change in your test database with 
  
     rake db:test:clone
  
